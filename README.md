@@ -29,9 +29,6 @@ The objective of this project is to:
 ```text
 time-series-air-quality-forecasting/
 │
-├── README.md
-│
-│
 ├── data/
 │   └── AirQualityUCI_clean.csv
 │
@@ -44,13 +41,7 @@ time-series-air-quality-forecasting/
 ├── outputs/
 │   ├── air_quality_48hr_forecast_submission.xlsx
 │   └── air_quality_48hr_forecast_submission_prophet.xlsx
-│
-├── images/
-│   ├── correlation_heatmap.png
-│   ├── actual_vs_prediction.png
-│   ├── prophet_forecast.png
-│   └── residual_plot.png
-│
+│   
 └──  README.md
 
 ```
@@ -168,4 +159,5 @@ The final model was selected based on lower forecasting error across the require
 
 Aspiring Data Analyst | Python | SQL | Tableau | Time Series Analysis
 
-If you found this project helpful, feel free to ⭐ the repository.
+---
+## If you found this project helpful, feel free to ⭐ the repository!
