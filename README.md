@@ -61,53 +61,29 @@ time-series-air-quality-forecasting/
 
 ```
 Raw Dataset
-
-↓
-
+    ↓
 Data Cleaning
-
-↓
-
+    ↓
 Missing Value Treatment
-
-↓
-
+    ↓
 Datetime Parsing
-
-↓
-
+    ↓
 Exploratory Data Analysis (EDA)
-
-↓
-
+    ↓
 Stationarity Testing
-
-↓
-
+    ↓
 Feature Engineering
-
-↓
-
+    ↓
 SARIMA Model
-
-↓
-
+    ↓
 Prophet Model
-
-↓
-
+    ↓
 Model Comparison
-
-↓
-
+    ↓
 RMSE Evaluation
-
-↓
-
+    ↓
 48-Hour Forecast Generation
-
-↓
-
+    ↓
 Excel Submission Export
 ```
 
@@ -183,73 +159,6 @@ The final model was selected based on lower forecasting error across the require
 * Evaluated forecasting performance using RMSE
 * Exported prediction results into Excel submission format
 * Built a reusable forecasting workflow
-
----
-
-# 📷 Sample Outputs
-
-The repository can include:
-
-* Time Series Plot
-* Correlation Heatmap
-* Forecast Visualization
-* Actual vs Predicted Plot
-* Residual Analysis
-* Seasonal Decomposition
-
----
-
-# 🚀 Future Improvements
-
-* LSTM-based forecasting
-* XGBoost for multivariate forecasting
-* Hyperparameter optimization
-* Weather API integration
-* Interactive dashboard using Tableau or Power BI
-* Model deployment using Streamlit
-
----
-
-# ▶️ How to Run
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/time-series-air-quality-forecasting.git
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Run
-
-```text
-air_quality_forecasting.ipynb
-```
-
----
-
-# 📌 Key Skills Demonstrated
-
-* Time Series Analysis
-* Data Cleaning
-* Exploratory Data Analysis
-* Feature Engineering
-* Forecasting
-* SARIMA
-* Prophet
-* RMSE Evaluation
-* Python Programming
-* Data Visualization
 
 ---
 
