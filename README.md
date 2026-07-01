@@ -157,7 +157,7 @@ The final model was selected based on lower forecasting error across the require
 
 **Diyaa Choudhary**
 
-Aspiring Data Analyst | Python | SQL | Tableau | Time Series Analysis
+Aspiring Business Risk Analyst | SQL | Advance Excel | Tableau | Python | Time Series Analysis
 
 ---
 ## If you found this project helpful, feel free to ⭐ the repository!
